@@ -1,0 +1,11 @@
+header{
+text-align: center;
+background-color: blueviolet;
+}
+
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 3fr;
+    background-color: blueviolet;
+}
