@@ -1,8 +1,10 @@
 header{
 text-align: center;
-background-color: blueviolet;
-}
+-webkit-text-fill-color: aliceblue;
+ background-image: url("https://wallpapercave.com/wp/wp2326995.gif") ; 
+      background-size: cover;
 
+}
 
 main{
     display: grid;
